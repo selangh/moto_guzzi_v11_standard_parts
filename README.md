@@ -1,6 +1,6 @@
 # Moto Guzzi V11 Normteile
 
-Nachdem ich die 20.000er Wartung selbst durchgeführt habe hier mal ein kleine Zusammenstellung von Normteilen, die man dabei brauchen kann. Wenn Du Einträge erzänzen möchtest klicke oben auf "Issues" und dann "New Issue" und schreibe welches Teil, Norm, Größe usw. ich werde es dann ergänzen.
+Nachdem ich die 20.000er Wartung selbst durchgeführt habe hier mal ein kleine Zusammenstellung von Normteilen, die man dabei brauchen kann. Wenn Du Einträge erzänzen möchtest klicke [hier](https://github.com/selangh/moto_guzzi_v11_standard_parts/issues/new/choose) und schreibe welches Teil, Norm, Größe usw. ich werde es dann ergänzen.
 
 ## Guzzi V11 Sport (KT)
 
