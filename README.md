@@ -23,5 +23,6 @@ Nachdem ich die 20.000er Wartung selbst durchgeführt habe hier mal ein kleine Z
 |15x26x7|DIN 3760|NBR|Schaltwelle am Vorwählerdeckel| 
 
 ### Wälzlager
-|Größe|Material|Verwendung|
+|Typ|Größe|Verwendung|
 |-|-|-|
+|16007|62x35x9|Abtriebswelle Getriebe im hinteren Deckel|
