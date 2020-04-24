@@ -1,0 +1,1 @@
+# moto_guzzi_v11_standard_parts
