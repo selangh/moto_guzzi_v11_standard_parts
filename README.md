@@ -5,24 +5,27 @@ Nachdem ich die 20.000er Wartung selbst durchgeführt habe hier mal ein kleine Z
 ## Guzzi V11 Sport (KT)
 
 ### Schrauben
-|Typ|Norm|Größe|Material|Verwendung|
-|-|-|-|-|-|
-|Inbus Linsenkopf|ISO 7380-1|M6x20|V2A|4 Stk. zur Befestigung des Halters vom Ölkühler am Rahmen - ggf. Ersatz durch Typ ISO 4762 / DIN 912|
-|Inbus Linsenkopf|ISO 7380-1|M6x16|V2A|4 Stk. zur Befestigung des Ölkühler an dessen Halter - ggf. Ersatz durch Typ ISO 4762 / DIN 912|
-|Sechskant|ISO 4017 / DIN 933|M6x14|V2A|4 Stk. Befestigung Batteriehalter|
+
+Die originalen Schrauben sind teilweise oberflächenbehandelt. Passenden Material selbst auswählen.
+
+|ET-Nr|Typ|Norm|Größe|Material|Verwendung|
+|-|-|-|-|-|-|
+|GU98350320|Inbus Linsenkopf|ISO 7380-1|M6x20|V2A|4 Stk. zur Befestigung des Halters vom Ölkühler am Rahmen - ggf. Ersatz durch Typ ISO 4762 / DIN 912|
+|GU98370616|Inbus Linsenkopf|ähnlich ISO 7380-1|M6x16|V2A|4 Stk. zur Befestigung des Ölkühler an dessen Halter - ggf. Ersatz durch Typ ISO 4762 / DIN 912|
+|GU98084314|Sechskant|ISO 4017 / DIN 933|M6x14|V2A|4 Stk. Befestigung Batteriehalter|
 
 ### O-Ringe
-|Größe|Material|Verwendung|
-|-|-|-|
-|27x2|NBR|O-Ring zwischen Gleitstück der Kardanwelle|
+|ET-Nr|Größe|Material|Verwendung|
+|-|-|-|-|
+||27x2|NBR|O-Ring zwischen Gleitstück der Kardanwelle|
 
 ### Wellendichtringe
-|Größe|Norm|Material|Verwendung|
-|-|-|-|-|
-|42x56x7|DIN 3760|NBR|Getriebeausgangswelle|
-|15x26x7|DIN 3760|NBR|Schaltwelle am Vorwählerdeckel| 
+|ET-Nr|Größe|Norm|Material|Verwendung|
+|-|-|-|-|-|
+|GU90404255|42x56x7|DIN 3760|NBR|Abtriebswelle Getriebe im hinteren Deckel|
+|GU90401526|15x26x7|DIN 3760|NBR|Schaltwelle am Vorwählerdeckel| 
 
 ### Wälzlager
-|Typ|Größe|Verwendung|
-|-|-|-|
-|16007|62x35x9|Abtriebswelle Getriebe im hinteren Deckel|
+|ET-Nr|Typ|Größe|Verwendung|
+|-|-|-|-|
+|GU92201035|16007|35x62x9|Abtriebswelle Getriebe im hinteren Deckel|
