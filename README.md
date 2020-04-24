@@ -20,6 +20,9 @@ Die originalen Schrauben sind teilweise oberflächenbehandelt. Passenden Materia
 ||27x2|NBR|O-Ring zwischen Gleitstück der Kardanwelle|
 
 ### Wellendichtringe
+
+Ggf. haben die Ringe eine zusätzliche Staubschutzlippe - macht überall dort Sinn, wo gegen die Umgebung abzudichten ist.
+
 |ET-Nr|Größe|Norm|Material|Verwendung|
 |-|-|-|-|-|
 |GU90404255|42x56x7|DIN 3760|NBR|Abtriebswelle Getriebe im hinteren Deckel|
